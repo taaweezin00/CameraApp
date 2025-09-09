@@ -10,5 +10,4 @@ CameraApp
 
 
 ภาพหน้าจอโปรแกรงและแสดงผล
-https://github.com/taaweezin00/CameraApp/raw/main/images/1757427892156.jpg
-![คำอธิบายภาพ](https://github.com/taaweezin00/CameraApp/raw/main/images/1757427892156.jpg)
+![คำอธิบายภาพ666](https://github.com/taaweezin00/CameraApp/raw/main/images/1757427892156.jpg)
