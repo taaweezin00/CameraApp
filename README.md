@@ -10,8 +10,9 @@ CameraApp
 
 
 ภาพหน้าจอโปรแกรงและแสดงผล
-![1](https://github.com/taaweezin00/CameraApp/raw/main/images/1757429943023.jpg)
 ![2](https://github.com/taaweezin00/CameraApp/raw/main/images/1757429943034.jpg)
 ![3](https://github.com/taaweezin00/CameraApp/raw/main/images/1757429943045.jpg)
 ![4](https://github.com/taaweezin00/CameraApp/raw/main/images/1757429943054.jpg)
+![1](https://github.com/taaweezin00/CameraApp/raw/main/images/1757429943023.jpg)
+
 
