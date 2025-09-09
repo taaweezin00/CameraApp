@@ -10,4 +10,5 @@ CameraApp
 
 
 ภาพหน้าจอโปรแกรงและแสดงผล
-![คำอธิบายภาพ666](https://github.com/taaweezin00/CameraApp/raw/main/images/1757427892156.jpg)
+
+
